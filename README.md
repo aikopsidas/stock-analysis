@@ -7,6 +7,7 @@ A inital macro was created, but it needed to be improved for speed quality. The 
 
 ## Results
 The use of the 'tickerIndex' and the arrays created refactored the prior script to make is run more efficiently, and much quicker. 
+![2017 before refactoring](2017_before.PNG)
 
 ##Summary
 
