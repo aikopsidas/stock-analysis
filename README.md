@@ -6,8 +6,12 @@ Steve, my great friend from college, has just graduated and his parents are his 
 A inital macro was created, but it needed to be improved for speed quality. The macro gives the results for 12 stocks (and the choice of year). It took longer than expected to run, and if more data was added it would slow down even more.
 
 ## Results
-The use of the 'tickerIndex' and the arrays created refactored the prior script to make is run more efficiently, and much quicker. 
-![2017 before refactoring](2017_before.PNG)
+The use of the 'tickerIndex' and the arrays created refactored the prior script to make is run more efficiently, and much quicker. As you can see below in the screen shots, the time it took to run  for the 2017 data was much quicker than the previously used macro.
+
+![2017 before refactoring](2017_before.PNG) :arrow_right: ![2017_after](Resources/VBA_Challenge_2017.PNG)
+*2017 run before refactoring*                             *2017 run after refactoring*
+
+
 
 ##Summary
 
