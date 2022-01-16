@@ -1,23 +1,9 @@
 # Stock Analysis
 
 ## Overview of Project
-Though a macro was succesfully developed to run, giving results for 12 stocks (and the choice of year). It took longer than expected to run, and if more data was added it would slow down even more.
+Steve, my great friend from college, has just graduated and his parents are his first clients! Steves parents love green enegery so Steve has asked for help in analyizing a group green energy stock (including DAQO the stock that his parents chose for terrible reasons) with the use of VBA.
 ### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+A inital macro was created, but it needed to be improved for speed quality. The macro gives the results for 12 stocks (and the choice of year). It took longer than expected to run, and if more data was added it would slow down even more.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
