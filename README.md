@@ -11,6 +11,7 @@ show the before and after screen shots of the code and how long it took to run
 show the specific code that was changed ---
 
 ##Summary
+
 ### Adavatages and Disadvantages of Refatcoring Code
 
 ### Advatges and Disadvatages of the Original and Refactored VBA Script
